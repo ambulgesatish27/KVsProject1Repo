@@ -1,5 +1,5 @@
 package com.luv2code.mypack;
 
-public class exam {
+public class cs112 {
 
 }
